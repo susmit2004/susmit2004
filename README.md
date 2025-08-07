@@ -85,7 +85,7 @@
 
 ### 🌐 Let's Connect
 
-- [LinkedIn](https://linkedin.com/in/your-profile)
+- [LinkedIn](www.linkedin.com/in/suswww.linkedin.com/in/mit-naik-606252373)
 - [Portfolio Website](https://your-portfolio-site.com) *(optional)*
 - [Twitter/X](https://twitter.com/your-handle) *(optional)*
 
