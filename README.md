@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Susmit Naik</h1>
-<h3 align="center">Aspiring Data Scientist | BSc IT Graduate | MCA Aspirant | Passionate about Tech & AI</h3>
+<h3 align="center">Aspiring Data Scientist | BSc IT Graduate | MCA Student | Passionate about Tech & AI</h3>
 
 ---
 
